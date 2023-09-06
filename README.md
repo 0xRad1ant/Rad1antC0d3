@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Choudhary</h1>
 <h3 align="center">A visionary cybersecurity advocate on a mission to secure the digital landscape.</h3>
-<img align="right" alt="Coding" width="400" src="https://pin.it/2ApPx7h">
+<img align="right" alt="Coding" width="400" src="[https://pin.it/2ApPx7h](https://search.brave.com/images?q=Coding+Gifs&source=web)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulchoudhary001&label=Profile%20views&color=0e75b6&style=flat" alt="anshulchoudhary001" /> </p>
