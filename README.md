@@ -15,15 +15,14 @@
 
 - 🤝 I’m looking for help with **TechVision**
 
-- 👨‍💻 All of my projects are available at [https://www.anshulchoudhary.dev/](https://www.anshulchoudhary.dev/)
-
-- 📝 I regularly write articles on [https://www.anshulchoudhary.dev/](https://www.anshulchoudhary.dev/)
+- 👨‍💻 All of my projects are available at ([https://www.anshulchoudhary.dev/](https://anshulchoudhary001.github.io/Portfolio-Website/#))
+- 📝 I regularly write articles on [https://www.anshulchoudhary.dev/]([https://www.anshulchoudhary.dev/](https://anshulchoudhary001.github.io/Portfolio-Website/#))
 
 - 💬 Ask me about **latest trends in cybersecurity, effective strategies for securing digital environments, or how to enhance collaboration within the cybersecurity community.**
 
 - 📫 How to reach me **anshulchoudhary227@gmail.com**
 
-- 📄 Know about my experiences [https://www.anshulchoudhary.dev/](https://www.anshulchoudhary.dev/)
+- 📄 Know about my experiences [https://www.anshulchoudhary.dev/]([https://www.anshulchoudhary.dev/](https://anshulchoudhary001.github.io/Portfolio-Website/#))
 
 - ⚡ Fun fact **Besides being passionate about cybersecurity, I also have a knack for telling jokes! Here's one for you: Why don't scientists trust atoms? Because they make up everything! 😄**
 
