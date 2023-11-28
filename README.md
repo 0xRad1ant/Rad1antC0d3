@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Wifi Deauth**
+- 🔭 I’m currently working on **learning new tools**
 
 - 🌱 I’m currently learning **K8s, Docker, Linux**
 
 - 👯 I’m looking to collaborate on **Making Emails more Safe**
 
-- 🤝 I’m looking for help with **TechVision**
+- 🤝 I’m looking for help with **SecureByte**
 
 - 👨‍💻 All of my projects are available at ([https://www.anshulchoudhary.dev/](https://anshulchoudhary001.github.io/Portfolio-Website/#))
 - 📝 I regularly write articles on [https://www.anshulchoudhary.dev/]([https://www.anshulchoudhary.dev/](https://anshulchoudhary001.github.io/Portfolio-Website/#))
