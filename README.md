@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **K8s, Docker, Linux**
 
-- 👯 I’m looking to collaborate on **Making Emails more Safe**
+- 👯 I’m looking to collaborate on **Network Monitoring**
 
 - 🤝 I’m looking for help with **SecureByte**
 
