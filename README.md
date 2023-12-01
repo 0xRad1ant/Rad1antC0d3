@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **learning new tools**
 
-- 🌱 I’m currently learning **K8s, Docker, Linux**
+- 🌱 I’m currently learning **Offensive Security**
 
 - 👯 I’m looking to collaborate on **Network Monitoring**
 
