@@ -28,6 +28,7 @@
 <a href="https://dev.to/rad1antc0d3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rad1antc0d3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rad1antc0d3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rad1antc0d3" height="30" width="40" /></a>
 <a href="https://medium.com/@rad1antc0d3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rad1antc0d3" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@secure_byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@secure_byte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
