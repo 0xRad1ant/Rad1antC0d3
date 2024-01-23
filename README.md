@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rad1antc0d3&label=Profile%20views&color=0e75b6&style=flat" alt="rad1antc0d3" /> </p>
 
-- 🔭 I’m currently working on **Network monitoring tool**sd
+- 🔭 I’m currently working on **Network monitoring tool**
 
 - 🌱 I’m currently learning **Java, Shell Scripting**
 
