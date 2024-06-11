@@ -2,6 +2,7 @@
 <h3 align="center">Driven Cybersecurity Analyst dedicated to fortifying digital landscapes through learning, innovation, and practical solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rad1antc0d3&label=Profile%20views&color=0e75b6&style=flat" alt="rad1antc0d3" /> </p>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/rad1antx0.png" alt="TryHackMe">
 
 - 🔭 I’m currently working on **Network monitoring tool**
 
